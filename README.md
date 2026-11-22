@@ -77,6 +77,6 @@ graph LR
   author       = {Sajjadi, Seyed Ali Akbar},
   title        = {GeoAI Gypsum Exploration Pipeline},
   year         = {2026},
-  url          = {[https://github.com/saasajjadi/GeoAI-Gypsum-Exploration](https://github.com/saasajjadi/GeoAI-Gypsum-Exploration)}
+  url          = {https://github.com/saasajjadi/GeoAI-Gypsum-Exploration}
 }
 ```
