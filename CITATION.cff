@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your exploration workflow or academic research, please cite it as below."
+authors:
+  - family-names: "Sajjadi"
+    given-names: "Seyed Ali Akbar"
+title: "GeoAI Gypsum Exploration Pipeline"
+version: 1.0.0
+date-released: 2026-02-01
+url: "https://github.com/saasajjadi/GeoAI-Gypsum-Exploration"
+license: MIT
