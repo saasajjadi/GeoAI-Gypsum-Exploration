@@ -1,11 +1,11 @@
-# GeoAI Gypsum Exploration Pipeline
+# Gypsum Prospectivity, Structural Analysis & 3D Traverse Planning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saasajjadi/GeoAI-Gypsum-Exploration/blob/main/notebooks/Gypsum_GeoAI_GitHub_Ready.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-API-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-An end-to-end **GeoAI, Remote Sensing, and Structural Geology** pipeline for automated gypsum prospectivity mapping, 3D outcrop orientation modeling, HSE terrain risk assessment, and serpentine field traverse planning using **Google Earth Engine (GEE)** and Python.
+An end-to-end **Multi-Sensor Remote Sensing, Geospatial Data Science, and Structural Geology** pipeline for automated gypsum prospectivity mapping, 3D structural orientation analysis, HSE terrain risk assessment, and serpentine field traverse planning using **Google Earth Engine (GEE)** and Python.
 
 ---
 
@@ -66,17 +66,17 @@ graph LR
 1. Click the **Open In Colab** badge above.
 2. In **Cell 1 (`CONFIG`)**, replace `'YOUR_GEE_PROJECT_ID'` with your Google Earth Engine Cloud Project ID.
 3. Run the notebook and upload a **zipped Shapefile** (`.shp`, `.shx`, `.dbf`, `.prj`) of your Area of Interest (AOI) in **Cell 2**.
-4. All 300 DPI maps and outputs are generated automatically in `/content/GeoAI_Gypsum_Final_Outputs`.
+4. All 300 DPI maps and outputs are generated automatically in `/content/Gypsum_Pipeline_Outputs`.
 
 ---
 
 ## Citation
 
 ```bibtex
-@software{Sajjadi_GeoAI_Gypsum_Exploration_2026,
+@software{Sajjadi_Gypsum_Prospectivity_Traverse_GIS_2026,
   author       = {Sajjadi, Seyed Ali Akbar},
-  title        = {GeoAI Gypsum Exploration Pipeline},
+  title        = {Gypsum Prospectivity, Structural Analysis & 3D Traverse Planning},
   year         = {2026},
-  url          = {https://github.com/saasajjadi/GeoAI-Gypsum-Exploration}
+  url          = {https://github.com/saasajjadi/Gypsum-Prospectivity-Traverse-GIS}
 }
 ```

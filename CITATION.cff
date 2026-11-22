@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Sajjadi"
     given-names: "Seyed Ali Akbar"
-title: "GeoAI Gypsum Exploration Pipeline"
+title: "Gypsum Prospectivity, Structural Analysis & 3D Traverse Planning"
 version: 1.0.0
 date-released: 2026-02-01
-url: "https://github.com/saasajjadi/GeoAI-Gypsum-Exploration"
+url: "https://github.com/saasajjadi/Gypsum-Prospectivity-Traverse-GIS"
 license: MIT
