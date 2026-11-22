@@ -22,7 +22,7 @@ graph LR
     D --> F[Weighted PCA & 3D SVD Strike]
     E & F --> G[3D Serpentine Traverse & HSE > 35 deg]
     G --> H[Toblers Hiking Logistics & 300 DPI Maps]
-cat << 'EOF' >> README.md
+```
 
 ---
 
@@ -78,3 +78,5 @@ cat << 'EOF' >> README.md
   title        = {GeoAI Gypsum Exploration Pipeline},
   year         = {2026},
   url          = {[https://github.com/saasajjadi/GeoAI-Gypsum-Exploration](https://github.com/saasajjadi/GeoAI-Gypsum-Exploration)}
+}
+```
