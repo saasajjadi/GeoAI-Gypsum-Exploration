@@ -1,0 +1,13 @@
+earthengine-api
+geopandas
+rasterio
+scipy
+scikit-image
+shapely
+matplotlib
+numpy
+pandas
+simplekml
+gpxpy
+openpyxl
+requests
