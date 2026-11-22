@@ -1,6 +1,6 @@
 # Gypsum Prospectivity, Structural Analysis & 3D Traverse Planning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saasajjadi/Gypsum-Prospectivity-Traverse-GIS/blob/main/notebooks/Gypsum_GeoAI_GitHub_Ready.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saasajjadi/Gypsum-Prospectivity-Traverse-GIS/blob/main/notebooks/Gypsum_Prospectivity_Traverse_GIS.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-API-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
