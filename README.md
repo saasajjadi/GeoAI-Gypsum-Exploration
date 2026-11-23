@@ -1,4 +1,4 @@
-# Gypsum Prospectivity, Structural Analysis & 3D Traverse Planning
+# Mineral Prospectivity, Structural Analysis & 3D Traverse Planning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saasajjadi/Gypsum-Prospectivity-Traverse-GIS/blob/main/notebooks/Gypsum_Prospectivity_Traverse_GIS.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
